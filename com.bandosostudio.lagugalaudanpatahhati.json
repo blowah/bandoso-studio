@@ -1,46 +1,300 @@
 {
-    "redirect":
-	[
-        {
-		"url_utama": "file:///android_asset/music/playlist.html",
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"backup_ads_banner": "qwerty1234",
+		"backup_ads_intertitial": "qwerty1234",
+		"interval_intertitial": 3,
+		"initialize_sdk": "null",
+		"initialize_sdk_backup_ads": "null",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+	"Categories": [{
+			"id": 1,
+			"name_category": "Lagu Galau",
+			"image": "file:///android_asset/image/anyar.jpg"
+		}
 
-		"enable_mp3": true,
-                "enable_strap": true,
-                "enable_strap_Splah": true,
-                "ads_on_exit_dialog": true,
 
-                "pengaturan_iklan": "1",
-		"inter_count": 2,
+	],
+	"Data": [{
+			"id": 1,
+			"name_category": "Lagu Galau",
+			"title": "Haruskah ku Mati",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/A1lagu1.mp3",
+			"duration": "279",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "Lagu Galau",
+			"title": "Lagu Galau",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/A2lagu2.mp3",
+			"duration": "243",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Lagu Galau",
+			"title": "Setia Itu Menyakitkan",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/A3lagu3.mp3",
+			"duration": "268",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "Lagu Galau",
+			"title": "Jauh",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/A4lagu4.mp3",
+			"duration": "278",
+			"lyrics": ""
+		},
+		{
+			"id": 5,
+			"name_category": "Lagu Galau",
+			"title": "Putus Cinta",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/A5lagu5.mp3",
+			"duration": "268",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "Lagu Galau",
+			"title": "Penantian Berujung Luka",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/A6lagu6.mp3",
+			"duration": "238",
+			"lyrics": ""
+		},
+		{
+			"id": 7,
+			"name_category": "Lagu Galau",
+			"title": "Pupus",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/A7lagu7.mp3",
+			"duration": "306",
+			"lyrics": ""
+		},
+		{
+			"id": 8,
+			"name_category": "Lagu Galau",
+			"title": "Kehilangan",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/A8lagu8.mp3",
+			"duration": "248",
+			"lyrics": ""
+		},
+		{
+			"id": 9,
+			"name_category": "Lagu Galau",
+			"title": "Cintaku Hilang",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/A9lagu9.mp3",
+			"duration": "239",
+			"lyrics": ""
+		},
+		{
+			"id": 10,
+			"name_category": "Lagu Galau",
+			"title": "Aku Yang Tersakiti",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/B1lagu10.mp3",
+			"duration": "243",
+			"lyrics": ""
+		},
+		{
+			"id": 11,
+			"name_category": "Lagu Galau",
+			"title": "Kau Pilih Dia",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/B2lagu11.mp3",
+			"duration": "276",
+			"lyrics": ""
+		},
+		{
+			"id": 12,
+			"name_category": "Lagu Galau",
+			"title": "Mengenangmu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/B3lagu12.mp3",
+			"duration": "279",
+			"lyrics": ""
+		},
+		{
+			"id": 13,
+			"name_category": "Lagu Galau",
+			"title": "Tapi Bukan Aku",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/B4lagu13.mp3",
+			"duration": "271",
+			"lyrics": ""
+		},
+		{
+			"id": 14,
+			"name_category": "Lagu Galau",
+			"title": "Pedih",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/B5lagu14.mp3",
+			"duration": "278",
+			"lyrics": ""
+		},
+		{
+			"id": 15,
+			"name_category": "Lagu Galau",
+			"title": "Seluruh Nafas Ini",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/B6lagu15.mp3",
+			"duration": "294",
+			"lyrics": ""
+		},
+		{
+			"id": 16,
+			"name_category": "Lagu Galau",
+			"title": "Luka Terindah",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/B7lagu16.mp3",
+			"duration": "253",
+			"lyrics": ""
+		},
+		{
+			"id": 17,
+			"name_category": "Lagu Galau",
+			"title": "Kekasih Yang Tak Dianggap",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/B8lagu17.mp3",
+			"duration": "294",
+			"lyrics": ""
+		},
+		{
+			"id": 18,
+			"name_category": "Lagu Galau",
+			"title": "Patah hati",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/B9lagu18.mp3",
+			"duration": "188",
+			"lyrics": ""
+		},
+		{
+			"id": 19,
+			"name_category": "Lagu Galau",
+			"title": "Saat Kau Pergi",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/C1lagu19.mp3",
+			"duration": "201",
+			"lyrics": ""
+		},
+		{
+			"id": 20,
+			"name_category": "Lagu Galau",
+			"title": "Kesepian",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/C2lagu20.mp3",
+			"duration": "252",
+			"lyrics": ""
+		},
+		{
+			"id": 21,
+			"name_category": "Lagu Galau",
+			"title": "tanpa batas waktu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/C3lagu21.mp3",
+			"duration": "252",
+			"lyrics": ""
+		},
+		{
+			"id": 22,
+			"name_category": "Lagu Galau",
+			"title": "cinta luar biasa",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/C4lagu22.mp3",
+			"duration": "254",
+			"lyrics": ""
+		},
+		{
+			"id": 23,
+			"name_category": "Lagu Galau",
+			"title": "selepas kau pergi",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/C5lagu23.mp3",
+			"duration": "248",
+			"lyrics": ""
+		},
+		{
+			"id": 24,
+			"name_category": "Lagu Galau",
+			"title": "harusnya aku",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/C6lagu24.mp3",
+			"duration": "288",
+			"lyrics": ""
+		},
+		{
+			"id": 25,
+			"name_category": "Lagu Galau",
+			"title": "benci untuk mencinta",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/C7lagu25.mp3",
+			"duration": "247",
+			"lyrics": ""
+		},
+		{
+			"id": 26,
+			"name_category": "Lagu Galau",
+			"title": "Menangis semalam",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/C8lagu26.mp3",
+			"duration": "274",
+			"lyrics": ""
+		},
+		{
+			"id": 27,
+			"name_category": "Lagu Galau",
+			"title": "Terendap lara ku",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/C9lagu27.mp3",
+			"duration": "321",
+			"lyrics": ""
+		},
+		{
+			"id": 28,
+			"name_category": "Lagu Galau",
+			"title": "To the bone",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D1lagu28.mp3",
+			"duration": "353",
+			"lyrics": ""
+		},
+		{
+			"id": 29,
+			"name_category": "Lagu Galau",
+			"title": "Cinta dalam hati",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D2lagu29.mp3",
+			"duration": "284",
+			"lyrics": ""
+		},
+		{
+			"id": 30,
+			"name_category": "Lagu Galau",
+			"title": "Disini untuk mu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D3lagu30.mp3",
+			"duration": "301",
+			"lyrics": ""
+		}
 
-            	"startapp": "211751235",
-
-                "appid": "pub-8359503984668545",
-                "admobappid": "ca-app-pub-8359503984668545~2890390917",
-                "bannerid": "ca-app-pub-8359503984668545/4227523319",
-                "interid": "ca-app-pub-8359503984668545/5704256512",
-		"nativeid" : "",                
-
-                "hpk_alien": "",
-                "hpkadmob1": "",
-                "hpkadmob2": "",
-                "hpkadmob3": "",
-                "hpkadmob4": "",
-                "hpkadmob5": "",
-
-                "fan_inter": "YOUR_PLACEMENT_ID",
-                "fan_banner": "YOUR_PLACEMENT_ID",
-		"fan_native": "YOUR_PLACEMENT_ID",
-
-		"exit_popup_dialog":
-		"For the good of this application \n\nplease help give us support by doing 5 star rating :)",
-				 
-                "url_more_apps": "https://play.google.com/store/apps/details?id=com.bandosostudio.exokpopfullmusic",
-                "rate_button" : "Rate 5 Stars Now",
-                "later_button" : "Rate Later",
-		"more_button" : "More Awesome Apps",
-				 
-		"json_popup_wait" : "Siap . . . ."
-
-        }
-    ]
+	]
 }
