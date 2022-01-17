@@ -1,14 +1,14 @@
 {
 	"Ads": [{
 		"select_main_ads": "ADMOB",
-		"select_backup_ads": "STARTAPP",
-		"main_ads_banner": "ca-app-pub-8359503984668545/4227523319",
-		"main_ads_intertitial": "ca-app-pub-8359503984668545/5704256512",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
 		"backup_ads_banner": "qwerty1234",
 		"backup_ads_intertitial": "qwerty1234",
 		"interval_intertitial": 3,
-		"initialize_sdk": "203868921",
-		"initialize_sdk_backup_ads": "203868921",
+		"initialize_sdk": "null",
+		"initialize_sdk_backup_ads": "null",
 		"high_paying_keyword_1": "",
 		"high_paying_keyword_2": "",
 		"high_paying_keyword_3": "",
@@ -64,7 +64,7 @@
 		{
 			"id": 5,
 			"name_category": "Lagu Galau",
-			"title": "Putus Cinta",
+			"title": "RAPUH",
 			"image": "file:///android_asset/image/anyar.jpg",
 			"link_mp3": "mp3/A5lagu5.mp3",
 			"duration": "268",
@@ -294,7 +294,236 @@
 			"link_mp3": "mp3/D3lagu30.mp3",
 			"duration": "301",
 			"lyrics": ""
+		},
+		{
+			"id": 31,
+			"name_category": "Lagu Galau",
+			"title": "Aku Cinta Kau Dan Dia",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu31AkuCintaKauDanDia.mp3",
+			"duration": "266",
+			"lyrics": ""
+		},
+		{
+			"id": 32,
+			"name_category": "Lagu Galau",
+			"title": "Bagaimana Kalau Aku Tidak Baik Baik Saja",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu32BagaimanaKalauAkuTidakBaikBaikSaja.mp3",
+			"duration": "284",
+			"lyrics": ""
+		},
+		{
+			"id": 33,
+			"name_category": "Lagu Galau",
+			"title": "Belum Siap Kehilangan",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu38BelumSiapKehilangan.mp3",
+			"duration": "267",
+			"lyrics": ""
+		},
+		{
+			"id": 34,
+			"name_category": "Lagu Galau",
+			"title": "Bersama Bintang",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu39BersamaBintang.mp3",
+			"duration": "283",
+			"lyrics": ""
+		},
+		{
+			"id": 35,
+			"name_category": "Lagu Galau",
+			"title": "BiarKu Sendiri",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu34BiarKuSendiri.mp3",
+			"duration": "275",
+			"lyrics": ""
+		},
+		{
+			"id": 36,
+			"name_category": "Lagu Galau",
+			"title": "Bukan Pujangga",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu35BukanPujangga.mp3",
+			"duration": "320",
+			"lyrics": ""
+		},
+		{
+			"id": 37,
+			"name_category": "Lagu Galau",
+			"title": "Bukti",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu36Bukti.mp3",
+			"duration": "314",
+			"lyrics": ""
+		},
+		{
+			"id": 38,
+			"name_category": "Lagu Galau",
+			"title": "Butiran Debu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu37ButiranDebu.mp3",
+			"duration": "324",
+			"lyrics": ""
+		},
+		{
+			"id": 39,
+			"name_category": "Lagu Galau",
+			"title": "Cukup Siti Nurbaya",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu33CukupSitiNurbaya.mp3",
+			"duration": "276",
+			"lyrics": ""
+		},
+		{
+			"id": 40,
+			"name_category": "Lagu Galau",
+			"title": "DIA",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu41DIA.mp3",
+			"duration": "326",
+			"lyrics": ""
+		},
+		{
+			"id": 41,
+			"name_category": "Lagu Galau",
+			"title": "Harus Terpisah",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu42HarusTerpisah.mp3",
+			"duration": "332",
+			"lyrics": ""
+		},
+		{
+			"id": 42,
+			"name_category": "Lagu Galau",
+			"title": "Jika Itu Yang Terbaik",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu43JikaItuYangTerbaik.mp3",
+			"duration": "317",
+			"lyrics": ""
+		},
+		{
+			"id": 43,
+			"name_category": "Lagu Galau",
+			"title": "Judika Mama Papa Larang",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu44JudikaMamaPapaLarang.mp3",
+			"duration": "288",
+			"lyrics": ""
+		},
+		{
+			"id": 44,
+			"name_category": "Lagu Galau",
+			"title": "Kasih Putih",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu45KasihPutih.mp3",
+			"duration": "304",
+			"lyrics": ""
+		},
+		{
+			"id": 45,
+			"name_category": "Lagu Galau",
+			"title": "Kau Anggap Apa",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu46KauAnggapApa.mp3",
+			"duration": "239",
+			"lyrics": ""
+		},
+		{
+			"id": 46,
+			"name_category": "Lagu Galau",
+			"title": "Demi Cinta",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu40DemiCinta.mp3",
+			"duration": "292",
+			"lyrics": ""
+		},
+		{
+			"id": 47,
+			"name_category": "Lagu Galau",
+			"title": "Melawan Restu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu47MelawanRestu.mp3",
+			"duration": "291",
+			"lyrics": ""
+		},
+		{
+			"id": 48,
+			"name_category": "Lagu Galau",
+			"title": "Melepasmu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu48Melepasmu.mp3",
+			"duration": "287",
+			"lyrics": ""
+		},
+		{
+			"id": 49,
+			"name_category": "Lagu Galau",
+			"title": "Melukis Senja",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu49MelukisSenja.mp3",
+			"duration": "297",
+			"lyrics": ""
+		},
+		{
+			"id": 50,
+			"name_category": "Lagu Galau",
+			"title": "PAMIT",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu50PAMIT.mp3",
+			"duration": "281",
+			"lyrics": ""
+		},
+		{
+			"id": 51,
+			"name_category": "Lagu Galau",
+			"title": "Pesan Terakhir",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu51PesanTerakhir.mp3",
+			"duration": "236",
+			"lyrics": ""
+		},
+		{
+			"id": 52,
+			"name_category": "Lagu Galau",
+			"title": "Kumenanti Seorang Kekasih",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu52KumenantiSeorangKekasih.mp3",
+			"duration": "203",
+			"lyrics": ""
+		},
+		{
+			"id": 53,
+			"name_category": "Lagu Galau",
+			"title": "Sahabat Jadi Cinta",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu53SahabatJadiCinta.mp3",
+			"duration": "322",
+			"lyrics": ""
+
+		},
+		{
+			"id": 54,
+			"name_category": "Lagu Galau",
+			"title": "Sandiwara cinta",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu54Sandiwaracinta.mp3",
+			"duration": "312",
+			"lyrics": ""
+		},
+		{
+			"id": 55,
+			"name_category": "Lagu Galau",
+			"title": "Yang Terlupakan",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu55YangTerlupakan.mp3",
+			"duration": "296",
+			"lyrics": ""
+
 		}
+		
+		
 
 	]
 }
